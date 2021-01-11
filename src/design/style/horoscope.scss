@@ -1,0 +1,23 @@
+.brand {
+  text-align: center;
+  font-size: 3.6rem;
+  margin: var(--base-height-margin) auto;
+  margin-top: 0rem;
+}
+
+.tag-line {
+  margin: var(--base-height-margin) auto;
+  text-align: center;
+  font-family: var(--font-subtitle);
+  font-size: 1.8rem;
+}
+
+.compatibility-score {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 6rem;
+  font-size: 4rem;
+  margin: var(--base-height-margin);
+}
